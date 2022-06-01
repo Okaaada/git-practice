@@ -1,3 +1,1 @@
-hoge
-ooo
-okd
+hogeo
